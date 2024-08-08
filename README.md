@@ -65,7 +65,8 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 * bcrypt (npm package for password hashing)
 * handlebars (npm package for a template engine used for html and javascript integration on the front-end)
  ## Project Demo
-
+![Tech-Blog](./assets/14-MVC.png)
+![Login](./assets/14-MVC-login.png)
  ## Links
 GitHub: https://github.com/thernand09/14-TechBlog
-Render: 
+Render: https://one4-techblog-1.onrender.com
